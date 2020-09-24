@@ -1,7 +1,10 @@
-<h2>नमस्कार (Namaste)🙏🏻, I'm Adarsh Pandya! 👋</h2>
+<h2>नमस्कार (Namashkar)🙏🏻, I'm Adarsh Pandya! 👋</h2>
 
 ![GitHub followers](https://img.shields.io/github/followers/whoadarshpandya?label=Follow&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=whoadarshpandya.whoadarshpandya)
+
+## What I Believe?
+<h4><i>"Just like poems and other art , Coding is also an Art.And for me it's Divine. For the first time in my life i do see the beauty hiding behind invisible rules of coding"</i><h4>
 
 ## Ask me about :computer: 
 - **Known languages**
